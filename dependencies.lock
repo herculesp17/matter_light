@@ -179,7 +179,7 @@ dependencies:
   idf:
     source:
       type: idf
-    version: 5.4.0
+    version: 5.3.2
 direct_dependencies:
 - espressif/button
 - espressif/esp_delta_ota
@@ -192,5 +192,5 @@ direct_dependencies:
 - espressif/led_strip
 - espressif/mdns
 manifest_hash: b83ab4863b608170296f325a3ea2bbf701c3c839310bd076d338f6481f3f8ef9
-target: esp32c6
+target: esp32
 version: 2.0.0
